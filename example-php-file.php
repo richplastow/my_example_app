@@ -2,7 +2,7 @@
 
 //// About this script.
 $APP_NAME    = 'My Example App';
-$APP_VERSION = '1.0.0';
+$APP_VERSION = '1.0.1';
 $APP_AUTHOR  = 'richplastow';
 
 //// Enable error-reporting.
