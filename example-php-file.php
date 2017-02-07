@@ -9,6 +9,6 @@ $APP_AUTHOR  = 'richplastow';
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-echo "<h1>$APP_NAME $APP_VERSION</h1>\n\n";
+echo "<h1>$APP_NAME $APP_VERSION It Works!!!</h1>\n\n";
 
 ?>
